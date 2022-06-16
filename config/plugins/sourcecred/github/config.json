@@ -1,1 +1,6 @@
-{"repositories": ["sourcecred-test/example-github"]}
+{"repositories": [
+    "Green-Act/greensourcecred",
+    "Green-Act/webapp",
+    "Green-Act/server"
+    ]
+}
