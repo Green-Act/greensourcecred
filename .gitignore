@@ -4,5 +4,6 @@ output/
 cache/
 
 .env
+.notebook
 **/.DS_Store
 **/.DS_Store?
